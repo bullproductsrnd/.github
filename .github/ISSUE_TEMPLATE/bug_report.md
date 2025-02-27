@@ -1,24 +1,41 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
-labels: ''
+name: 🐞 Bug
+about: File a bug/issue report to help us improve
+title: '[BUG] <title>'
+labels: Bug, Needs Triage
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+<!--
+Note: Please search to see if an issue already exists for the bug you encountered.
+-->
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Current Behavior:
+<!-- A concise description of what you're experiencing. -->
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Expected Behavior:
+<!-- A concise description of what you expected to happen. -->
+
+### Steps To Replicate:
+<!--
+Example: steps to replicate the behavior:
+1. In this environment...
+1. With this config...
+1. Run '...'
+1. See error...
+-->
+
+### Environment:
+<!--
+Example:
+- OS: Ubuntu 20.04
+- Node: 13.14.0
+- npm: 7.6.3
+- Device: iPhone6
+- Browser safari
+- Version 22
+-->
 
 **Screenshots**
 If applicable, add screenshots to help explain your problem.
@@ -34,5 +51,7 @@ If applicable, add screenshots to help explain your problem.
  - Browser [e.g. stock browser, safari]
  - Version [e.g. 22]
 
-**Additional context**
-Add any other context about the problem here.
+### Anything else:
+<!--
+Links? References? Anything that will give us more context about the issue that you are encountering!
+-->
